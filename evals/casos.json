@@ -1,0 +1,7 @@
+[
+  {"tema": "Rappi en Colombia",            "debe_mencionar": ["rappi"],          "min_hallazgos": 4},
+  {"tema": "Nubank en México",             "debe_mencionar": ["nu", "méxico"],   "min_hallazgos": 4},
+  {"tema": "Mercado Libre en Colombia",    "debe_mencionar": ["mercado libre"],  "min_hallazgos": 4},
+  {"tema": "Didi Food vs Rappi en Bogotá", "debe_mencionar": ["didi", "rappi"],  "min_hallazgos": 4},
+  {"tema": "Bancolombia y Nequi",          "debe_mencionar": ["nequi"],          "min_hallazgos": 4}
+]

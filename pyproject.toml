@@ -1,0 +1,12 @@
+[project]
+name = "analista-inteligencia"
+version = "0.1.0"
+description = "Analista de inteligencia competitiva multiagente con citas verificadas, memoria y evals"
+requires-python = ">=3.10"
+dependencies = [
+    # Versión verificada del SDK: 0.2.176 (empaca Claude Code 2.1.316).
+    "claude-agent-sdk>=0.2.170",
+]
+
+[tool.uv]
+package = false
